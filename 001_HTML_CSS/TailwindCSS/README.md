@@ -20,4 +20,4 @@ In `intro.html`, you were given some markup for a hero section, and a CSS file w
 
 The previous page you worked on contained a hero section of a larger page. Now you can continue working on the entire page.
 
-In `mainPage.html`, you have the markup for the entire page. Like the previous exercise, comment out the CSS import, and comment the Tailwind CSS CDN script tag in to start styling the page with Tailwind.
+In `mainPage.html`, you have the markup for the entire page. Like the previous exercise, comment out the CSS import, and add the Tailwind CSS CDN script tag to start styling the page with Tailwind.
